@@ -1,0 +1,17 @@
+.bodybg {
+    -fx-background-color: #efefef;
+}
+.hboxmain {
+    -fx-background-color: #afafaf;
+}
+.anchortela {
+    -fx-background-color: #000000;
+
+}
+.textFild {
+    -fx-background-radius: 20px;
+}
+
+.button {
+    -fx-background-radius: 20px;
+}
